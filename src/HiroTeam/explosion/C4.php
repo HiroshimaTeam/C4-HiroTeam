@@ -51,7 +51,7 @@ class C4 extends PluginBase implements Listener{
         $c4 = $this->config->get("c4ID");
         if($c4 === $block->getId() . ":". $block->getDamage()){
             $player->sendMessage($this->config->get("messagePlace"));
-            $this->getScheduler()->scheduleDelayedTask(new c4Task($this, $player, $block), 80);
+            $this->getScheduler()->scheduleDelayedTask(new task\c4Task($this, $player, $block), 80);
 
         }
     }
