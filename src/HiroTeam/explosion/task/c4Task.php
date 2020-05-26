@@ -1,6 +1,6 @@
 <?php
 
-namespace explosion\task;
+namespace HiroTeam\explosion\task;
 
 use HiroTeam\explosion\C4;
 use pocketmine\level\Explosion;
@@ -22,7 +22,6 @@ class c4Task extends Task{
         $this->plugin = $plugin;
         $this->player = $player;
         $this->block = $block;
-
     }
 
 
