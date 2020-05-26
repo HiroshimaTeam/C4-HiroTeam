@@ -1,0 +1,19 @@
+---
+#C4 plugin by HiroTeam | Plugin de C4 par la HiroTeam
+#██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗
+#██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║
+#███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║
+#██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║
+#██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║
+#╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+#description:
+#ENG: This plugin allows you to use the block of your choice to use it as C4!
+#FRA: Ce plugin vous permet d'utiliser le bloc de votre choix pour l'utiliser en tant que C4 !
+
+c4ID: "241:4"
+
+sizeExplosion: "3.3"
+
+messagePlace: "it will explode in 4 seconds"
+messageAfterExplosion: "BOOOOOM"
+...
