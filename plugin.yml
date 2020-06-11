@@ -3,3 +3,4 @@ author: HiroTeam
 version: 1.0.0
 api: 3.0.0
 main: HiroTeam\explosion\C4
+depend: [WorldGuard]
