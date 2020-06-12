@@ -12,7 +12,7 @@
 [FRA] configurez ID:META de la C4 dans la config.yml et ensuite placez ce blocs et attendre qu'il explose ! elle permet aussi d'exploser les blocs d'obsidiennes adjacents !
 
 ##### Here is the video:
-- C4 Pocketmine plugin in [Youtube]() ! __no video yet__
+- C4 Pocketmine plugin in __Youtube__ ! __no video yet__
 
 ###### Have you made a video? Contact me to put it [here](https://discord.gg/WuwsuUA):exclamation:
 
@@ -40,4 +40,4 @@
 HiroshimaTeam/C4-HiroTeam is licensed under the
 
 > Apache License 2.0
-A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express > grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+>A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express > grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
