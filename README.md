@@ -26,13 +26,13 @@
 - **Discord Member:** WillyDuGang#6947 RomainSav#9558 
 - **Discord Server:** :link:  https://discord.gg/WuwsuUA<br/>
 - **E-mail:** team.hiroshima.dev@gmail.com<br/>
-- **Us PocketMine Server** :link:  https://hirovote.eu            ![HiroTeam](https://zupimages.net/up/20/24/m7ym.png)<br/>
+- **Us PocketMine Server** :link:  https://hirovote.eu<br/>
 > ██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗</br>
 > ██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║</br>
 > ███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║</br>
 > ██╔══██║██║██╔══██╗██║░░██║░░░██║░░░██╔══╝░░██╔══██║██║╚██╔╝██║</br>
 > ██║░░██║██║██║░░██║╚█████╔╝░░░██║░░░███████╗██║░░██║██║░╚═╝░██║</br>
-> ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝
+> ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝░╚════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝ ![HiroTeam](https://zupimages.net/up/20/24/m7ym.png)
 ---
 ### License
 HiroshimaTeam/C4-HiroTeam is licensed under the
