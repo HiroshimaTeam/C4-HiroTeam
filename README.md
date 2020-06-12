@@ -27,7 +27,7 @@
 - **Discord Server:** :link:  https://discord.gg/WuwsuUA<br/>
 - **E-mail:** team.hiroshima.dev@gmail.com<br/>
 - **Us PocketMine Server** :link:  https://hirovote.eu<br/>
-![HiroTeam](https://zupimages.net/up/20/24/m7ym.png)
+> ![HiroTeam](https://zupimages.net/up/20/24/m7ym.png)
 > ██╗░░██╗██╗██████╗░░█████╗░████████╗███████╗░█████╗░███╗░░░███╗</br>
 > ██║░░██║██║██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██╔══██╗████╗░████║</br>
 > ███████║██║██████╔╝██║░░██║░░░██║░░░█████╗░░███████║██╔████╔██║</br>
