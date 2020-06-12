@@ -43,4 +43,4 @@ HiroshimaTeam/C4-HiroTeam is licensed under the
 >A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express > grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 ---
 ### Author
-RomainSav
+- **Discord:** RomainSav#9558
